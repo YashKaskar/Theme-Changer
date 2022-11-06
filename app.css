@@ -46,4 +46,12 @@
     position: absolute;
     height: 39px;
     width: 39px;
+    top: 4px;
+    left: 4px;
+    border-radius: 50%;
+}
+
+.checkbox{  
+    opacity: 0;
+    position: absolute;
 }
