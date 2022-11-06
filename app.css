@@ -1,5 +1,6 @@
 *{  
     font-family: 'Kolker Brush', cursive;
+    box-sizing: border-box;
 }
 
 .header{    
@@ -11,10 +12,14 @@
 
 .label{ 
     height: 49px;
-    width: 90px;
-    background-color: #404258;
+    width: 109px;
+    background-color: #3F3B6C;
     display: flex;
     border-radius: 50px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    position: relative;
 }
 
 .main-content {
@@ -25,9 +30,20 @@
 }
 
 .fa-moon {  
-    color: #f1c40f;
+    color: #EEEEEE;
+    font-size: 23px;
+    margin-left: 0.5rem;
 }
 
 .fa-sun {   
-    color: #f39c12;
+    color: #FD841F;
+    font-size: 23px;
+    margin-right: 0.5rem;
+}
+
+.ball { 
+    background-color: #FFDDD2;
+    position: absolute;
+    height: 29px;
+    width: 29px;
 }
