@@ -16,3 +16,10 @@
     display: flex;
     border-radius: 50px;
 }
+
+.main-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 9rem;
+}
