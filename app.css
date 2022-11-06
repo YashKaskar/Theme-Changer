@@ -5,6 +5,7 @@
 
 body.dark { 
     background-color: #3C4048;
+    transition: background 0.6s linear;
 }
 
 .header{    
