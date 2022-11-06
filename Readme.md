@@ -1,8 +1,8 @@
 ****Theme Change****
 
-In this project i made stopwatch which functional and ready to use
+In this project i made theme changer which functional and ready to use
 
-To make this stopwatch i used ( Html, Css, JavaScript )
+To make this theme changer i used ( Html, Css, JavaScript )
 
 In Html :
 
