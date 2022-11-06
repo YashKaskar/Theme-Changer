@@ -8,6 +8,10 @@ body.dark {
     transition: background 0.6s linear;
 }
 
+body.dark h1{   
+    color: #EEEEEE;
+}
+
 .header{    
     font-size: 59px;
     font-weight: 500;
